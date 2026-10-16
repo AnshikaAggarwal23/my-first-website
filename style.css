@@ -62,3 +62,11 @@ section p{
         padding: 70px 20px;
     }
 }
+footer{
+    margin-top: 35px;
+    padding: 15px;
+    color: #a78bfa;
+    font-size: 14px;
+    text-align: center;
+    opacity: 0.85;
+}
